@@ -25,7 +25,7 @@ END:VCARD
 BEGIN:VCARD
 VERSION:3.0
 FN:🏖️ Builder
-N:;🏖?️ Builde;;;
+N:;🏖 Builder;;;
 TEL;TYPE=WORK;TYPE=CELL:09079294834
 ADR;TYPE=HOME:;;;;Lagos;;;Lagos
 TITLE:Others
@@ -35,7 +35,7 @@ END:VCARD
 BEGIN:VCARD
 VERSION:3.0
 FN:🏖️ Builder
-N:;🏖?️ Builde;;;
+N:;🏖 Builder;;;
 TEL;TYPE=WORK;TYPE=CELL:09079294834
 ADR;TYPE=HOME:;;;;Lagos;;;Lagos
 TITLE:Others
@@ -45,7 +45,7 @@ END:VCARD
 BEGIN:VCARD
 VERSION:3.0
 FN:🏖️ Builder
-N:;🏖?️ Builde;;;
+N:;🏖 Builder;;;
 TEL;TYPE=WORK;TYPE=CELL:09079294834
 ADR;TYPE=HOME:;;;;Lagos;;;Lagos
 TITLE:Others
@@ -55,7 +55,7 @@ END:VCARD
 BEGIN:VCARD
 VERSION:3.0
 FN:🏖️ UtySpecial spots
-N:;🏖?️ UtySpecial spot;;;
+N:;🏖 UtySpecial spot;;;
 TEL;TYPE=WORK;TYPE=CELL:07067671436
 ADR;TYPE=HOME:;;;;Rivers;;;Rivers
 TITLE:Gadgets & Electronics
@@ -625,4 +625,5 @@ TITLE:WhatsApp TV
 NOTE:Timestamp\: 2/15/2026 21\:24\:40\n
 CATEGORIES:Imported on 2/15 1,myContacts
 END:VCARD
+
 
