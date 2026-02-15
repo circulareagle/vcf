@@ -55,7 +55,7 @@ END:VCARD
 BEGIN:VCARD
 VERSION:3.0
 FN:🏖️ UtySpecial spots
-N:;🏖 UtySpecial spot;;;
+N:;🏖 UtySpecial spots;;;
 TEL;TYPE=WORK;TYPE=CELL:07067671436
 ADR;TYPE=HOME:;;;;Rivers;;;Rivers
 TITLE:Gadgets & Electronics
@@ -625,5 +625,6 @@ TITLE:WhatsApp TV
 NOTE:Timestamp\: 2/15/2026 21\:24\:40\n
 CATEGORIES:Imported on 2/15 1,myContacts
 END:VCARD
+
 
 
